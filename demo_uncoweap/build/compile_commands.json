@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\disp.c.obj -c C:\\dev\\psx\\shadow2025\\disp.c",
+  "file": "C:\\dev\\psx\\shadow2025\\disp.c",
+  "output": "CMakeFiles\\shadow25.dir\\disp.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\3dStuff.c.obj -c C:\\dev\\psx\\shadow2025\\3dStuff.c",
+  "file": "C:\\dev\\psx\\shadow2025\\3dStuff.c",
+  "output": "CMakeFiles\\shadow25.dir\\3dStuff.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\modplayer.c.obj -c C:\\dev\\psx\\shadow2025\\modplayer.c",
+  "file": "C:\\dev\\psx\\shadow2025\\modplayer.c",
+  "output": "CMakeFiles\\shadow25.dir\\modplayer.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\scene03.c.obj -c C:\\dev\\psx\\shadow2025\\scene03.c",
+  "file": "C:\\dev\\psx\\shadow2025\\scene03.c",
+  "output": "CMakeFiles\\shadow25.dir\\scene03.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\scene04.c.obj -c C:\\dev\\psx\\shadow2025\\scene04.c",
+  "file": "C:\\dev\\psx\\shadow2025\\scene04.c",
+  "output": "CMakeFiles\\shadow25.dir\\scene04.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\scene05.c.obj -c C:\\dev\\psx\\shadow2025\\scene05.c",
+  "file": "C:\\dev\\psx\\shadow2025\\scene05.c",
+  "output": "CMakeFiles\\shadow25.dir\\scene05.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\scene06.c.obj -c C:\\dev\\psx\\shadow2025\\scene06.c",
+  "file": "C:\\dev\\psx\\shadow2025\\scene06.c",
+  "output": "CMakeFiles\\shadow25.dir\\scene06.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\scene07.c.obj -c C:\\dev\\psx\\shadow2025\\scene07.c",
+  "file": "C:\\dev\\psx\\shadow2025\\scene07.c",
+  "output": "CMakeFiles\\shadow25.dir\\scene07.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\scene08.c.obj -c C:\\dev\\psx\\shadow2025\\scene08.c",
+  "file": "C:\\dev\\psx\\shadow2025\\scene08.c",
+  "output": "CMakeFiles\\shadow25.dir\\scene08.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\main.c.obj -c C:\\dev\\psx\\shadow2025\\main.c",
+  "file": "C:\\dev\\psx\\shadow2025\\main.c",
+  "output": "CMakeFiles\\shadow25.dir\\main.c.obj"
+},
+{
+  "directory": "C:/dev/psx/shadow2025/build",
+  "command": "C:\\dev\\psx\\PSn00bSDK-0.24-win32\\bin\\mipsel-none-elf-gcc.exe -DNDEBUG=1 -DPSN00BSDK=1 -IC:/dev/psx/PSn00bSDK-0.24-win32/lib/libpsn00b/cmake/../../../include/libpsn00b -g -Wa,--strip-local-absolute -ffreestanding -fno-builtin -nostdlib -fdata-sections -ffunction-sections -fsigned-char -fno-strict-overflow -fdiagnostics-color=always -msoft-float -march=r3000 -mtune=r3000 -mabi=32 -mno-mt -mno-llsc -O2 -G8 -fno-pic -mno-abicalls -mgpopt -mno-extern-sdata -o CMakeFiles\\shadow25.dir\\incbin_5ab33a6a31643aa616a3622a8da5068ea4c55fbf.s.obj -c C:\\dev\\psx\\shadow2025\\build\\incbin_5ab33a6a31643aa616a3622a8da5068ea4c55fbf.s",
+  "file": "C:\\dev\\psx\\shadow2025\\build\\incbin_5ab33a6a31643aa616a3622a8da5068ea4c55fbf.s",
+  "output": "CMakeFiles\\shadow25.dir\\incbin_5ab33a6a31643aa616a3622a8da5068ea4c55fbf.s.obj"
+}
+]

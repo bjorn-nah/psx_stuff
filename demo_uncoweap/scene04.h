@@ -1,0 +1,1 @@
+void scene04_play(RenderContext ctx);

@@ -1,0 +1,21 @@
+# ninja log v5
+17	95	7730771019971226	CMakeFiles/shadow25.dir/3dStuff.c.obj	f1f7d86f06dca87b
+55	109	7730771020142123	CMakeFiles/shadow25.dir/incbin_5ab33a6a31643aa616a3622a8da5068ea4c55fbf.s.obj	efb515c893306e2f
+12	142	7730771020439801	CMakeFiles/shadow25.dir/disp.c.obj	6dffdb12f9aa6168
+50	170	7730771020767372	CMakeFiles/shadow25.dir/main.c.obj	a415d96d91e87512
+28	188	7730771020980900	CMakeFiles/shadow25.dir/scene04.c.obj	e19128554643b4e6
+24	195	7730771021021813	CMakeFiles/shadow25.dir/scene03.c.obj	f6db3d209f308fd7
+32	203	7730771021117024	CMakeFiles/shadow25.dir/scene05.c.obj	a3f4ab4b5f214006
+46	206	7730771021147629	CMakeFiles/shadow25.dir/scene08.c.obj	30fb680528099aba
+36	217	7730771021267178	CMakeFiles/shadow25.dir/scene06.c.obj	f3cfe12132aa3cc
+41	227	7730771021363399	CMakeFiles/shadow25.dir/scene07.c.obj	d75381b695ee87a2
+20	404	7730771023076251	CMakeFiles/shadow25.dir/modplayer.c.obj	2e8b90de817b4370
+405	545	7730771024545718	shadow25.elf	beb4a6b24fcbb97c
+405	545	7730771024545718	shadow25.exe	beb4a6b24fcbb97c
+405	545	7730771024545718	shadow25.map	beb4a6b24fcbb97c
+405	545	7730771024545718	C:/dev/psx/shadow2025/build/shadow25.exe	beb4a6b24fcbb97c
+405	545	7730771024545718	C:/dev/psx/shadow2025/build/shadow25.map	beb4a6b24fcbb97c
+545	577	7730771024874755	shadow25.bin	29a95e68a1aac58d
+545	577	7730771024874755	shadow25.cue	29a95e68a1aac58d
+545	577	7730771024874755	C:/dev/psx/shadow2025/build/shadow25.bin	29a95e68a1aac58d
+545	577	7730771024874755	C:/dev/psx/shadow2025/build/shadow25.cue	29a95e68a1aac58d
